@@ -1,0 +1,13 @@
+{
+    "description": "f.is-a.dev",
+    "owner": {
+        "email": "1@likey.eu.org",
+        "username": "likey"
+    },
+    "proxied": true,
+    "record": {
+        "A": [
+            "188.68.240.160"
+        ]
+    }
+}
